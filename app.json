@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "snake-game",
+    "slug": "snack-b40b9545-20f6-41a9-b08c-d80f236ff65e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This is an online dictionary app in which people can search any word and they will get the meaning of the word."
+  }
+}
